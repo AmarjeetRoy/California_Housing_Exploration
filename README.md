@@ -20,8 +20,8 @@ Here's a detailed look at the project's folder structure:
 |-----------------------|----------------------------------------------------------|
 | [`Python File`](Python%20File) 📂       | The root directory of the project containing primary files and notebooks. |
 | [`EDA.ipynb`](Python%20File/EDA.ipynb) 📒          | A Jupyter Notebook serving as the core of our analysis, where we perform EDA and document our findings. |
-| [`Data`](Data) 📂               | A folder dedicated to housing dataset storage and management. |
-| [`California housing.csv`] (Data) 📄       | The dataset file, "California housing.csv," which serves as the source for our analysis. |
+| [`Data`](Data)📂               | A folder dedicated to housing dataset storage and management. |
+| [`California housing.csv`](Data) 📄       | The dataset file, "California housing.csv," which serves as the source for our analysis. |
 
 ## Data Source 📊
 
