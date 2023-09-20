@@ -1,8 +1,8 @@
-# Project Overview 📊
+# 📊 Project Overview 
 
 Welcome to the Exploratory Data Analysis (EDA) project! This project aims to gain valuable insights from the housing dataset using Python and data analysis libraries. Through thorough analysis, we explore various aspects of the dataset and address specific questions to better understand the data.
 
-## Aims and Problem Statement 🎯
+## 🎯 Aims and Problem Statement 
 
 Our primary objectives for this project include:
 
@@ -12,7 +12,7 @@ Our primary objectives for this project include:
 
 - **Conducting an in-depth EDA:** We aim to answer key questions about the dataset, uncover patterns, and gain insights into the factors affecting housing values.
 
-## Folder Structure 📁
+## 📁 Folder Structure 
 
 Here's a detailed look at the project's folder structure:
 
@@ -23,7 +23,7 @@ Here's a detailed look at the project's folder structure:
 | [`Data`](Data)📂               | A folder dedicated to housing dataset storage and management. |
 | [`California housing.csv`](Data) 📄       | The dataset file, "California housing.csv," which serves as the source for our analysis. |
 
-## Data Source 📊
+## 📊 Data Source 
 
 The dataset used in this project, "California Housing Price," was sourced from Kaggle, a renowned platform for data science and machine learning enthusiasts. You can access the dataset by following this link:
 
@@ -33,7 +33,7 @@ The dataset provides valuable information about housing in California and serves
 
 
 
-## Data Cleaning and Preprocessing 🧹
+## 🧹 Data Cleaning and Preprocessing 
 
 In this section, we meticulously prepare the dataset for analysis:
 
@@ -43,11 +43,11 @@ In this section, we meticulously prepare the dataset for analysis:
 
 - **Managing outliers:** Outliers can distort our analysis, so we identify and handle them judiciously, preserving the accuracy of our insights.
 
-## Exploratory Data Analysis (EDA) in Detail 📈
+## 📈 Exploratory Data Analysis (EDA) in Detail 
 
 Our EDA process is divided into three comprehensive parts:
 
-### Part 1: Data Exploration and Cleaning 🧐
+### 🧐 Part 1: Data Exploration and Cleaning 
 
 In this initial phase, we acquaint ourselves with the dataset:
 
@@ -57,7 +57,7 @@ In this initial phase, we acquaint ourselves with the dataset:
 
 - **Data cleaning:** We meticulously clean columns with incorrect data types and handle null values and outliers to ensure data quality.
 
-### Part 2: Data Visualization and Analysis 📊
+### 📊 Part 2: Data Visualization and Analysis 
 
 This phase emphasizes visualizing and analyzing the data:
 
@@ -67,7 +67,7 @@ This phase emphasizes visualizing and analyzing the data:
 
 - **Pair plots and correlation heatmaps:** These tools help us understand relationships and correlations between different features.
 
-### Part 3: Further Data Analysis 📝
+### 📝 Part 3: Further Data Analysis 
 
 In this advanced analysis phase, we dig deeper into the dataset:
 
@@ -77,21 +77,21 @@ In this advanced analysis phase, we dig deeper into the dataset:
 
 - **Age and room analysis:** We explore the relationship between the age of a house and the number of rooms, offering insights into housing trends.
 
-## Insights 🚀
+## 🚀 Insights 
 
 Throughout our analysis, we've uncovered several valuable insights, including correlations, patterns, and noteworthy observations that provide a comprehensive understanding of the dataset.
 
-## Conclusion of the Project 🎉
+## 🎉 Conclusion of the Project 
 
-### Challenges and Solutions 🤔
+### 🤔 Challenges and Solutions 
 
 We encountered various challenges during this project, including data cleaning complexities and the need to handle outliers effectively. To address these challenges, we employed robust data cleaning techniques and outlier management strategies. These challenges strengthened our data analysis skills.
 
-### Key Learnings 📚
+### 📚 Key Learnings 
 
 This project provided valuable learning experiences. We honed our data analysis skills, gained proficiency in using data visualization tools, and deepened our understanding of housing data. Our insights into factors influencing housing prices have real-world applications.
 
-### Future Scope 🔍
+### 🔍 Future Scope 
 
 Looking ahead, there are exciting opportunities to expand this project:
 
