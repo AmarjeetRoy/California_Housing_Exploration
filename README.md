@@ -1,3 +1,7 @@
+<h1 align="center"> California Housing Trends </h1>
+
+<p align="center"><img  align="center" src="https://github.com/AmarjeetRoy/California_Housing_Trends/assets/137817362/c267eaa4-2cb9-4367-aeb4-7b6aa89e4d13" width =900px > </p>
+
 # 📊 Project Overview 
 
 Welcome to the Exploratory Data Analysis (EDA) project! This project aims to gain valuable insights from the housing dataset using Python and data analysis libraries. Through thorough analysis, we explore various aspects of the dataset and address specific questions to better understand the data.
