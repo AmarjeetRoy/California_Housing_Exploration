@@ -23,6 +23,15 @@ Here's a detailed look at the project's folder structure:
 | Data 📂               | A folder dedicated to housing dataset storage and management. |
 | California housing.csv 📄       | The dataset file, "California housing.csv," which serves as the source for our analysis. |
 
+## Data Source 📊
+
+The dataset used in this project, "California Housing Price," was sourced from Kaggle, a renowned platform for data science and machine learning enthusiasts. You can access the dataset by following this link:
+
+[_California Housing Price Dataset on Kaggle_](https://www.kaggle.com/camnugent/california-housing-prices)
+
+The dataset provides valuable information about housing in California and serves as the foundation for our in-depth exploratory data analysis (EDA).
+
+
 
 ## Data Cleaning and Preprocessing 🧹
 
