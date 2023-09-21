@@ -92,11 +92,58 @@ In this advanced analysis phase, we dig deeper into the dataset:
 
   <br>
 
+
+## Visualizations 📊
+
+<p align="center">
+
+<!-- Visualization 1 -->
+<a href="IMAGE1_LINK">
+  <img src="https://github.com/AmarjeetRoy/California_Housing_Trends/assets/137817362/e6f65556-dc26-4d07-b29f-4bef5f1d8301" alt="Visualization 1" width="1000">
+</a>
+
+<!-- Visualization 2 -->
+<a href="IMAGE2_LINK">
+  <img src="https://github.com/AmarjeetRoy/California_Housing_Trends/assets/137817362/14f2e746-f24a-41fe-87b6-7b7dfc5f0daa" alt="Visualization 2" width="1000">
+</a>
+
+<!-- Visualization 3 -->
+<a href="IMAGE3_LINK">
+  <img src="https://github.com/AmarjeetRoy/California_Housing_Trends/assets/137817362/5e6aa6c8-61df-401e-a1e6-36c658c32517" alt="Visualization 3" width="1000">
+</a>
+
+<!-- Visualization 4 -->
+<a href="IMAGE4_LINK">
+  <img src="https://github.com/AmarjeetRoy/California_Housing_Trends/assets/137817362/cc2a681f-9617-4e4d-92a1-6766d4a845f1" alt="Visualization 4" width="1000">
+</a>
+
+</p>
+
+
+<br>
+
+
 ## 🚀 Insights 
 
 Throughout our analysis, we've uncovered several valuable insights, including correlations, patterns, and noteworthy observations that provide a comprehensive understanding of the dataset.
+1. **Income-Value Relationship:** A strong positive correlation exists between median income and median house value, indicating that areas with higher incomes tend to have more expensive houses.
+
+2. **Proximity Matters:** Houses located near the ocean are generally more expensive, with prices decreasing as you move farther from the ocean. The order of pricing is 'Island,' 'Near bay,' 'Near ocean,' '<1H Ocean,' and 'Inland.'
+
+3. **Age vs. Rooms:** The age of a house does not significantly impact the number of rooms it has, suggesting that older houses can have as many rooms as newer ones.
+
+4. **Population Density:** Population density decreases as you move closer to the ocean. The order of decreasing density is '<1H OCEAN,' 'INLAND,' 'NEAR OCEAN,' 'NEAR BAY,' and 'ISLAND.'
+
+5. **Household and Room Correlation:** A positive correlation exists between the total number of rooms and the total number of households, indicating that areas with more households tend to have more rooms.
+
+6. **Newer Buildings, Higher Income:** Blocks with newer buildings generally have higher median incomes, while areas with older houses tend to have lower median incomes.
+
+These insights provide valuable information about housing trends and patterns in California, helping to inform decisions related to real estate and urban planning.
 
 <br>
+
+
+
 
 ## 🎉 Conclusion of the Project 
 
